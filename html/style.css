@@ -1,0 +1,43 @@
+body {
+    background: hsl(40, 20%, 95%);
+	color: #333;
+	font: 18px/26px 'Fira+Sans', Georgia, serif;
+}
+
+main {
+	max-width: 480px;
+	margin: 0 auto;
+	padding: 52px 26px;
+}
+
+h1 {
+    color: hsl(200, 40%, 40%);
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 36px;
+    letter-spacing: 2px;
+}
+
+h2 {
+    color: hsl(200, 30%, 40%);
+    font-weight: normal;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+a {
+	color: hsl(220, 70%, 40%);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+ul {
+	padding: 0 0 0 26px;
+}
+
+li {
+	padding-bottom: 13px;
+}
